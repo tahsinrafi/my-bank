@@ -8,6 +8,6 @@ loginSubmit.addEventListener("click",function(){
     if(userEmailText=="amartakade@gmail.com" && userPasswordText=='1234'){
         window.location.href="banking.html"
     }
-
+    
     
 })
